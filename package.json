@@ -1,22 +1,22 @@
 {
     "name": "dbr",
-    "version": "5.2.0",
+    "version": "6.4.1",
     "author": {
         "name": "Dynamsoft",
         "url": "https://www.dynamsoft.com"
     },
-    "description": "Dynamsoft Barcode Reader is a JavaScript recognition SDK which enables you to embed barcode reading functionality in your web app",
+    "description": "Dynamsoft Barcode Reader JavaScript edition enables you to embed barcode reading functionality in your web app",
     "files": [
         "dist"
     ],
-    "homepage": "https://www.dynamsoft.com/Products/WebTWAIN_Overview.aspx",
+    "homepage": "https://www.dynamsoft.com/Products/barcode-recognition-javascript.aspx",
     "keywords": [
         "barcode SDK",
         "web barcode",
-        "QR code",
+        "QRCode",
         "DataMatrix",
-        "PDF 417",
-        "Code 93",
+        "PDF417",
+        "Code93",
         "Linear",
         "barcode",
         "Code 128",
@@ -26,8 +26,6 @@
         "EAN-13",
         "UPC-A",
         "UPC-E",
-        "Interleaved 2 of 5 (ITF)",
-        "Industrial 2 of 5",
         "ITF-14"
     ],
     "main": "dist/dynamsoft.barcode.min.js",
@@ -37,6 +35,6 @@
     }],
     "repository": {
         "type": "git",
-        "url": "https://github.com/Dynamsoft/Dynamsoft-Barcode-Reader"
+        "url": "https://github.com/dynamsoft-dbr/javascript-barcode"
     }
 }
