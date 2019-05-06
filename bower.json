@@ -5,7 +5,7 @@
     "Dynamsoft"
   ],
   "description": "Dynamsoft Barcode Reader JavaScript edition enables you to embed barcode reading functionality in your web app",
-  "main": "dist/dynamsoft.barcode.min.js",
+  "main": "dist/dbr.min.js",
   "keywords": [
     "barcode SDK",
     "web barcode",
@@ -22,9 +22,9 @@
     "EAN-13",
     "UPC-A",
     "UPC-E",
-    "ITF-14"
+    "ITF-14",
+    "Aztec"
   ],
-  "license": "MIT",
   "ignore": [
     "**/.*",
     "node_modules",

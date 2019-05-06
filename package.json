@@ -1,6 +1,6 @@
 {
     "name": "dbr",
-    "version": "6.4.1",
+    "version": "6.5.1",
     "author": {
         "name": "Dynamsoft",
         "url": "https://www.dynamsoft.com"
@@ -26,11 +26,12 @@
         "EAN-13",
         "UPC-A",
         "UPC-E",
-        "ITF-14"
+        "ITF-14",
+        "Aztec"
     ],
-    "main": "dist/dynamsoft.barcode.min.js",
+    "main": "dist/dbr.min.js",
     "maintainers": [{
-        "name": "dynamsoft.barcode.min.js",
+        "name": "Dynamsoft",
         "email": "support@dynamsoft.com"
     }],
     "repository": {
